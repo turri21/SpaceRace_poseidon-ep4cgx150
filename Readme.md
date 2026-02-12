@@ -1,3 +1,7 @@
+-=(Poseidon notes)=-
+
+Ported to Poseidon EP4CGX150
+___
 # Arcade Space Race for MiSTer
 
 + FPGA implementation of Arcade _Space Race_ (Atari, 1973) for MiSTß.
